@@ -1,7 +1,6 @@
 
 # Business Insights 360
 
-A comprehensive Power BI dashboard providing key business performance metrics to streamline decision-making in finance, sales, supply chain, and marketing.
 
 ## Project Overview
 
